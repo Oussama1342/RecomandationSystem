@@ -1,0 +1,6 @@
+Pour créer un système capable de recommander automatiquement des éléments aux utilisateurs en fonction des préférences d’autres utilisateurs.
+*la première étape consiste à:
+      -Rechercher des utilisateurs ou des éléments similaires
+
+*La deuxième étape consiste à:
+      -prévoir les évaluations des éléments qui n'ont pas encore été évalués par un utilisateur
